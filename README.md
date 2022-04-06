@@ -8,7 +8,7 @@
 ### How to reach me:
 <a href = "mailto:dev.natanael.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-### 🎯 I'm currenly learning:
+### 🎯 I'm currently learning:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="120px" height="120px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="120px" height="120px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="120px" height="120px" />
 
