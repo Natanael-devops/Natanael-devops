@@ -3,7 +3,8 @@
 ### My name is Natanael and my nickname is "Nate"!
 
 
-🤓 I'm becoming proficient in Go!
+🤓 “Nothing is better than reading and gaining more and more knowledge.”
+― Stephen Hawking
 
 ### How to reach me:
 <a href = "mailto:dev.natanael.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
